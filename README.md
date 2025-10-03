@@ -9,7 +9,7 @@ A simple Unreal Engine 4 project in C++ demonstrating basic cube mechanics and g
 ![Project Screenshot](Docs/screanshot.png)
 📖 Description
 
-This project features a interactive cube character with basic movement mechanics, built in Unreal Engine 4.
+This project features a cube character with basic movement mechanics, built in Unreal Engine 4.
 The project serves as a learning exercise and portfolio piece for game programming.
 
 🎮 Features
