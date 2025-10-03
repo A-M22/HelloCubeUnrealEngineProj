@@ -37,7 +37,8 @@ HelloCube/
 
 🎥 Demo
 
-Check out the demo video: Docs/demo.mp4
+Check out the demo video: https://youtu.be/s8YfO7XSDSA
+or Download it from https://github.com/A-M22/HelloCubeUnrealEngineProj/blob/main/Docs/demo.mp4
 
 🔧 Requirements
 
