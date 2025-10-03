@@ -6,7 +6,7 @@ HelloCube - Unreal Engine Project
 
 A simple Unreal Engine 4 project in C++ demonstrating basic cube mechanics and gameplay.
 
-![Project Screenshot](Docs/screanshot.png)
+![Project Screenshot](Docs/screenshot.png)
 📖 Description
 
 This project features a cube character with basic movement mechanics, built in Unreal Engine 4.
