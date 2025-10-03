@@ -4,7 +4,7 @@ HelloCube - Unreal Engine Project
 ![GitHub](https://img.shields.io/github/repo-size/A-M22/HelloCubeUnrealEngineProj)
 
 
-#A simple Unreal Engine 4 project in C++ demonstrating basic cube mechanics and gameplay.
+A simple Unreal Engine 4 project in C++ demonstrating basic cube mechanics and gameplay.
 
 ![Project Screenshot](Docs/screanshot.png)
 📖 Description
