@@ -51,5 +51,6 @@ HelloCube/
 
 👤 Author
 
--A.M
--GitHub: @A-M22
+- A.M
+- GitHub: @A-M22
+https://github.com/A-M22
